@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc19fCf4b24F14A6DfD6BE529E4588312970e5520",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc19fcf4b24f14a6dfd6be529e4588312970e5520",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Such alpacas",
+  "SYMBOL": "Alpacas",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/such-alpacas",
+  "SHOW_BACKGROUND": true
+}
